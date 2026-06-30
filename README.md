@@ -9,7 +9,7 @@ Este repositorio contiene el diseño conceptual y lógico de la base de datos pa
 ## 📐 Modelo de Base de Datos
 Aquí puedes ver la arquitectura actual del sistema:
 
-![Diagrama de la Base de Datos](Primer-diagrama.drawio.png)
+![Diagrama de la Base de Datos](Primer-diagrama.drawio)
 
 ## 🚀 Entidades Principales
 * **Clientes:** Almacena la información de contacto y credenciales.
